@@ -1,0 +1,2 @@
+Quiz Result<br>
+<%= @input1 %> is <%= @result %> 
